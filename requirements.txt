@@ -10,3 +10,5 @@ requests
 pandas
 matplotlib
 xarray
+boto3
+botocore
